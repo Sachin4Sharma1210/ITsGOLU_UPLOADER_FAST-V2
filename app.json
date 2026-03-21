@@ -1,7 +1,7 @@
 {
-  "name": "ugxdev",
+  "name": "➤ 𝕊𝔸ℂℍ𝕀ℕ 𝕊ℍ𝔸ℝ𝕄𝔸",
   "description": "𝑻𝒆𝒙𝒕 𝑳𝒆𝒆𝒄𝒉 𝑽𝒊𝒅𝒆𝒐 𝑬𝒙𝒕𝒓𝒂𝒄𝒕𝒐𝒓 𝑭𝒐𝒓 𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎",
-  "logo": "https://files.catbox.moe/8e2qqw.jpg",
+  "logo": "https://files.catbox.moe/wj4126.jpg",
   "keywords": [
     "text-video",
     "video-extract",
@@ -13,27 +13,27 @@
   "env": {
     "API_ID": {
       "description": "23479156",
-      "value": "22746239",
+      "value": "23479156",
       "required": true
     },
     "API_HASH": {
       "description": "8bca5043e6fc023aaa8b3a20a410e2d5",
-      "value": "a98ec8cfd8572a3a7c936cf828fe6215",
+      "value": "8bca5043e6fc023aaa8b3a20a410e2d5",
       "required": true
     },
     "BOT_TOKEN": {
       "description": "8641538403:AAE2I0ZvcLmLFzXYN2izVXLnMDv_jOnjo3I",
-      "value": "",
+      "value": "8641538403:AAE2I0ZvcLmLFzXYN2izVXLnMDv_jOnjo3I",
       "required": true
     },
     "OWNER": {
       "description": "5858805647",
-      "value": "7743201204",
+      "value": "5858805647",
       "required": true
     },
     "CREDIT": {
       "description": "@Sachin4Sharma1210",
-      "value": "ITsGOLU",
+      "value": "@Sachin4Sharma1210",
       "required": true
     }
   },
