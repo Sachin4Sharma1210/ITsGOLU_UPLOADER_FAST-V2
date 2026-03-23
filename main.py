@@ -1085,7 +1085,7 @@ async def txt_handler(bot: Client, m: Message):
         f"├ 🖼️ ɪᴍᴀɢᴇꜱ : <code>{img_count}</code>\n"
         "╰────────────────────────────\n\n"
         
-        "<i>ᴇxᴛʀᴀᴄᴛᴇᴅ ʙʏ ᴡɪᴢᴀʀᴅ ʙᴏᴛꜱ 🤖</i>"
+        "<i>ᴇxᴛʀᴀᴄᴛᴇᴅ ʙʏ SACHIN SHARMA 🤖</i>"
     )
 )
 
@@ -1165,9 +1165,9 @@ async def details_callback(client, callback_query: CallbackQuery):
     details_text = (
         "**📋 Bot Details 📋**\n\n"
         "• 🤖 Bot Name: DRM SACHIN 🦋\n"
-        "• 👨‍💻 Developer: @Avigat1210\n"
+        "• 👨‍💻 Developer: SACHIN SHARMA\n"
         "• 📱 Contact: @Avigat1210\n"
-        "• 🔄 Version: 1.0\n"
+        "• 🔄 Version: 2.0\n"
         "• 📝 Language: Python\n"
         "• 🛠️ Framework: Pyrogram\n\n"
         "**🔐 Privacy & Security**\n\n"
